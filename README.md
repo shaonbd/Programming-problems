@@ -1,2 +1,2 @@
 # Programming-problems
-problems regarding light-oj, UVA and Spoj
+problems regarding light-oj and UVA.
